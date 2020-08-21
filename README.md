@@ -1,4 +1,4 @@
-# COLLEDGE_BACKEND_BASE
+# PYTHON_FLASK_BOILERPLATE
 
 This repository contains:
 
